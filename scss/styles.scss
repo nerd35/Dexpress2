@@ -1,0 +1,13 @@
+$bg-color: #e8eff7;
+$accent-color: #3c88b5;
+$accent-light-color: #e7ece9;
+
+body {
+  background: $bg-color !important;
+  font-family: Roboto, sans-serif !important;
+}
+
+.navlink{
+  font-family: Roboto, sans-serif;
+  color: $accent-color ;
+}
