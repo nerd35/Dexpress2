@@ -7,7 +7,14 @@ body {
   font-family: Roboto, sans-serif !important;
 }
 
-.navlink{
+.nav-link{
   font-family: Roboto, sans-serif;
-  color: $accent-color ;
+  color: $accent-color;
+}
+.headersection{
+  background-image: url('../public/images/divine-banner-main.jpg');
+   height: 700px;
+    background-repeat: no-repeat;
+     background-size: cover;
+      background-position: center center;
 }
